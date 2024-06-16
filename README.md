@@ -12,8 +12,6 @@ This project aims to develop a robust predictive model to forecast the landing s
 - **Launch Site Performance**:
   - CCAFS SLC-40 demonstrated the highest success rate, making it a potential benchmark for operational efficiency.
 
-![Launch Site Performance](path/to/launch_site_performance_image.png)
-*Launch site success rates visualization.*
 
 ## Model Development
 
