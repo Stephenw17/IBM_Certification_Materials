@@ -34,9 +34,6 @@ Four machine learning algorithms were evaluated:
   - Visualizes overall launch success and failure rates.
 - **Payload and Success Correlation**:
   - Shows the relationship between payload mass and landing outcomes.
-  
-![Interactive Dashboard](path/to/interactive_dashboard_image.png)
-*Interactive dashboard showcasing total success vs. failed launches and correlation between payload mass and success.*
 
 ## Conclusion
 
